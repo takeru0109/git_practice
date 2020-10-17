@@ -1,2 +1,3 @@
 hoge
 kato
+kato
